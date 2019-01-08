@@ -1,7 +1,7 @@
 # Overview
 This repository contains weekly lecture slides, laboratory, and homework assignment. The documents can be found within the [docs](./) folder. The codes for your laboratory and homework can be found within the [codes](../codes) folder. Occasionally, there might be data files for your laboratory and homework, which can be found in the [data](../data) folder.
 
-You will also use this repository to submit your reports for your laboratory and homework assignments. There are two template files within the [docs/lab](./lab/) and [docs/assg](./assg/) folders with name *__REPORT__.md*. You will write your report using these markdown files. 
+You will also use this repository to submit your reports for your laboratory and homework assignments. There are two template files within the [docs/lab](./lab/) and [docs/assg](./assg/) folders with name *\_\_REPORT\_\_.md*. You will write your report using these markdown files. 
 
 To start, fill in the metadata of these files (title, author, partner, date, etc.). Write your report based on the descriptions. You can include any figures, code snippets, and other files in your git repository using [relative links](https://github.com/mark-anders/relative-image-url), and Github will automatically render them for display. For additional information on the markdown syntax, refer to the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -33,4 +33,4 @@ git fetch upstream && git merge upstream/master
 ```
 
 # Submit the Repository
-Before you submit your repository for grading. Make sure the *__REPORT__.md* files are rendered correctly in your web browser, and all items are visible. Make a final commit to submit your work.
+Before you submit your repository for grading. Make sure the *\_\_REPORT\_\_.md* files are rendered correctly in your web browser, and all items are visible. Make a final commit to submit your work.
